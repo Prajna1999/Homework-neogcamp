@@ -1,0 +1,1 @@
+It's a simple quiz game where the quiz-taker is notified if he has crossed the high score of three. It's the assignment no.1 of neogcamp levelZero. 
